@@ -3,20 +3,22 @@
 **Note:** This repo was originally a subdirectory of [drannex42/linux-utils](https://github.com/drannex42//linux-utils/), but has now become a standalone repo for my Firefox Sidebar CSS and Utilities. The original linux-utils files can be found [here](https://github.com/drannex42/utils).
 
 ## Example
+
 Video of the extension in action: [https://i.imgur.com/HaLvkFc.mp4](https://i.imgur.com/HaLvkFc.mp4)
 
 https://user-images.githubusercontent.com/4322153/205100497-f56637c4-1d46-4c15-b349-d0b53f2838a0.mp4
 
 ## Features:
-  - Edge-like vertical tab design
-  - Tree style tab layout support (works with Sideberry & TST (legacy) version)
-  - Dynamic Indentation
-  - Automatic theme configuration for light and dark themes
-  - Custom theme configuration using Sideberry
-  - Support for tab groups
-  - Support for Tab Containers with visual identification
-  - Pinned tabs (right click to close)
-  - Built in CSS Extension Management
+
+- Edge-like vertical tab design
+- Tree style tab layout support (works with Sideberry & TST (legacy) version)
+- Dynamic Indentation
+- Automatic theme configuration for light and dark themes
+- Custom theme configuration using Sideberry
+- Support for tab groups
+- Support for Tab Containers with visual identification
+- Pinned tabs (right click to close)
+- Built in CSS Extension Management
 
 # How to use
 
@@ -55,11 +57,11 @@ In version 2022.02.23 we broke up the components into extensions using css impor
 - [Window Controls / Client Side Decorations (CSD)](/extensions/window_controls.css)
   - This adds the window controls to be inline with your address bar.
 
-There are a number of additional 'extensions' added in that folder. 
+There are a number of additional 'extensions' added in that folder.
 
 ## User Settings
 
-Please backup the `prefs.css` and the `custom.css` files before updating to a new versionof FirefoxSidebar.  There may be new additions to these files, so you will need to re-add your preferencess to the file accordingly. These files should be updated *far less* than the other files, but just to make sure please save them.
+Please backup the `prefs.css` and the `custom.css` files before updating to a new versionof FirefoxSidebar. There may be new additions to these files, so you will need to re-add your preferencess to the file accordingly. These files should be updated _far less_ than the other files, but just to make sure please save them.
 
 ### Preferences
 
